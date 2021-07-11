@@ -6,31 +6,34 @@
 
 **My languages**
 
-- Web Development
+- Front-End
   - HTML
   - CSS
   - SCSS
+  - Styled-Components 
   - JS
   - TypeScript
-  - React
+  - React.js
   - Next.js
+- Back-End
   - NodeJS
-  - ExpressJS
+  - Express.js
+  - Nest.js
+  - MongoDB
 - Tools
   - Parcel
   - GIT
   - SEO
   - RWD
   - Jest
+  - React Testing Library
     <br><br><br>
 
 # 💡 Projects 💡
 
 1. Tic-Tac-Toe
 2. Booking-App
-3. World-Currencies-App
 4. Shop-Guru
-5. World-Curriencies-TS
 6. My-Portfolio
 7. Search-Books-App
    <br><br><br>
