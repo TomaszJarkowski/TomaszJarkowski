@@ -13,6 +13,7 @@
   - JS
   - TypeScript
   - React
+  - Next.js
   - NodeJS
   - ExpressJS
 - Tools
@@ -36,8 +37,7 @@
 
 # 🌱 Current learning 🌱
 
-1. TypeScript
-2. Next.js
+1. Nest.js
 
    <br><br><br>
 
