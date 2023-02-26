@@ -38,12 +38,6 @@
 7. Search-Books-App
    <br><br><br>
 
-# 🌱 Current learning 🌱
-
-1. Nest.js
-
-   <br><br><br>
-
 📫 Email: tomaszjarkowski1998@gmail.com
 
 <br><br><br>
